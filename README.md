@@ -29,6 +29,6 @@ Wishmas is a delightful web app that crafts personalized editable wish lists bas
 3. Set up your environment variables.
 4. Run the app using `php artisan serve`.
 
-![Wishmas Logo](https://drive.google.com/file/d/1fi0OZvmmyhkR72d5X-owGUwagMHqSkEM/view?usp=sharing)
+![Wishmas Logo](images/logo.png)
 
 Have a holly, jolly time spreading wishes and cheer! 🎅✨
